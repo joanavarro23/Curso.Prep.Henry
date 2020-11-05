@@ -1,0 +1,11 @@
+Ejercicio Conceptos
+  
+  *Variable: Una variable es una forma de almacenar información para poder utilizarla con mayor facilidad. Debe ser declarada con el código var.
+ 
+  *String: Un string es un hilo o cadena de letras, números o cualquier tipo de caracteres que puedo encontrar en un teclado, cualquier texto entre comillas compone un string.
+ 
+  *Funciones (argumentos, 'return'): Una función es una agrupación de código que utiliza variables o argumentos para cumplir una tarea en específico. Un argumento sería algo muy similar a la anteriormente explicada variable, pero que se usa dentro de una función. "return" es una declaración que se puede colocar dentro de una función, y le dice a la función que es la información que debe devolver una vez cumplida.
+ 
+  *Declaraciones ('if'): Una declaración es un código que se expresa dentro de una función, puede ser una variable como puede ser el return como también puede ser el condicional if, que es una estructura de código que verifica si algo es verdadero o falso.
+ 
+  *Valores booleanos ('true', 'false'): Se relaciona con lo anteriormente mencionado del condicional if, los valores booleanos son 'true' o 'false', verdadero o falso, en código binario 0 o 1, en javascript estos valores se utilizan en condicionales como el if, para determinar justamente si algo es verdadero o falso.
